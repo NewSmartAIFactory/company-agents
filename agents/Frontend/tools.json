@@ -1,0 +1,11 @@
+{
+  "agent": "Frontend",
+  "title": "Frontend Engineer",
+  "department": "Engineering",
+  "tools": [
+    "node",
+    "nextjs",
+    "browser",
+    "github"
+]
+}

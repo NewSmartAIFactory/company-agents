@@ -1,0 +1,11 @@
+{
+  "agent": "CEOAssistant",
+  "title": "CEO Assistant",
+  "department": "Executive",
+  "tools": [
+    "company-api",
+    "dashboard",
+    "decision-log",
+    "reports"
+]
+}

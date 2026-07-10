@@ -1,0 +1,11 @@
+{
+  "agent": "DevOps",
+  "title": "DevOps Engineer",
+  "department": "Operations",
+  "tools": [
+    "docker",
+    "github-actions",
+    "monitoring",
+    "scripts"
+]
+}

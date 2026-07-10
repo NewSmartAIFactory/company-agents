@@ -1,0 +1,11 @@
+{
+  "agent": "BA",
+  "title": "Business Analyst",
+  "department": "Product",
+  "tools": [
+    "documents",
+    "templates",
+    "company-knowledge",
+    "decision-log"
+]
+}

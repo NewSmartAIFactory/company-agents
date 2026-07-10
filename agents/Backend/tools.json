@@ -1,0 +1,11 @@
+{
+  "agent": "Backend",
+  "title": "Backend Engineer",
+  "department": "Engineering",
+  "tools": [
+    "dotnet",
+    "database",
+    "github",
+    "tests"
+]
+}

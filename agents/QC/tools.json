@@ -1,0 +1,11 @@
+{
+  "agent": "QC",
+  "title": "QC Engineer",
+  "department": "Quality",
+  "tools": [
+    "browser",
+    "api-client",
+    "test-report",
+    "github"
+]
+}

@@ -1,0 +1,11 @@
+{
+  "agent": "Security",
+  "title": "Security Reviewer",
+  "department": "Quality",
+  "tools": [
+    "dependency-scan",
+    "code-review",
+    "owasp-checklist",
+    "github"
+]
+}

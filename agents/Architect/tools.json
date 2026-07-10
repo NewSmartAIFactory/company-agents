@@ -1,0 +1,11 @@
+{
+  "agent": "Architect",
+  "title": "Solution Architect",
+  "department": "Engineering",
+  "tools": [
+    "company-knowledge",
+    "ADR",
+    "diagrams",
+    "github"
+]
+}

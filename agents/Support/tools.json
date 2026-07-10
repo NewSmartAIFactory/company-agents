@@ -1,0 +1,11 @@
+{
+  "agent": "Support",
+  "title": "Support Agent",
+  "department": "Customer Success",
+  "tools": [
+    "ticketing",
+    "dashboard",
+    "knowledge-base",
+    "reports"
+]
+}

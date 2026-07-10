@@ -1,0 +1,12 @@
+{
+  "agent": "PM",
+  "title": "Project Manager",
+  "department": "Management",
+  "tools": [
+    "github",
+    "company-api",
+    "dashboard",
+    "reports",
+    "decision-log"
+]
+}
